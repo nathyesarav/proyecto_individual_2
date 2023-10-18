@@ -220,3 +220,14 @@ En la tercera página llamada "Ciudad" se muestran el análisis por países:
 ## Insights
 
 A lo largo del trabajo de análisis, visualización y exploración de datos, las conclusiones fueron:
+
+La primera década en 1900 tuvo un alza significativa, debido al tipo de vuelo Militar, ya que eran los primeros en incursionar en la industria aeroespacial. Habiendo un aumento hasta 1970, luego hubo una significativa disminución. 
+
+La aerolínea con mayor accidente con 333 fallecidos es Douglas DC-3. 
+
+Análisis geoespacial: Las regiones geográficas con mayor riesgo son Rusia, Asia, China y USA. 
+
+Análisis de fatalidades: La tasa distribución de fatalidades entre pasajeros, tripulación y víctimas en tierra. 
+
+
+Comparación de KPIs: Comparación de los KPIs calculados anteriormente, como el porcentaje de fatalidades entre pasajeros y tripulación, a lo largo del tiempo o entre diferentes operadores.
